@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Labib
 #### I am a entry-level developer
-![I am a entry-level developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+![I am a entry-level developer]
+("C:\Users\moinu\Downloads\Blue Tosca Geometric Technology Linkedln Banner.png")
 
 Skills:  JS / HTML / CSS
 
