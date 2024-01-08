@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Wazih
-#### I am a EntryLevel developer
+#### I am an EntryLevel developer
 
 
 Skills:  JS / HTML / CSS
